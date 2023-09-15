@@ -1,6 +1,3 @@
-[submodule "ROS/ccmslam-modified"]
-	path = ROS/ccmslam-modified
-	url = ../ccmslam-modified.git
 [submodule "ROS/tello_catkin_ws/src/Sophus"]
 	path = ROS/tello_catkin_ws/src/Sophus
 	url = ../../strasdat/Sophus.git
@@ -13,3 +10,9 @@
 [submodule "ROS/tello_catkin_ws/src/rpg_vikit"]
 	path = ROS/tello_catkin_ws/src/rpg_vikit
 	url = ../../uzh-rpg/rpg_vikit.git
+[submodule "ROS/h264decoder"]
+	path = ROS/h264decoder
+	url = https://github.com/DaWelter/h264decoder.git
+[submodule "ROS/ccmslam-modified"]
+	path = ROS/ccmslam-modified
+	url = https://github.com/tau-adl/ccmslam-modified.git
